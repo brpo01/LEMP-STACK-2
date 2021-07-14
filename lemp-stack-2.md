@@ -1,6 +1,6 @@
 # **WEB STACK IMPLEMENTATION (LEMP STACK) IN AWS**
 
-This Project covers the implementation of developing a boilerplate LEMP Stack app from start to finish and deploying to **AWS** (Amazon Web Services). The LEMP Stack is a Technology Stack. A Technology stack comprises of framework/tools that are used in building a software application. The LEMP Acronym stands for Linux, Nginx, MySQL, PHP.
+This Project covers the implementation of developing a LEMP Stack app from start to finish and deploying to **AWS** (Amazon Web Services). The LEMP Stack is a Technology Stack. A Technology stack comprises of framework/tools that are used in building a software application. The LEMP Acronym stands for Linux, Nginx, MySQL, PHP.
 
 - Linux - It is an operating system that is free and open source, and was built from UNIX. We would be creating our AWS EC2 instance on a virtual Server.
 
@@ -194,7 +194,7 @@ You should see an output like this:
 
 In this section, we will create a test database, so we can use php to query to database and retrieve data over the nginx server. The default authentication method used by sql is `caching_sha2_authentication` but the `php-mysql` library we installed a while back does not support this method. So before we can create a new user and enable php and mysql to connect, we have to use `mysql_native_password` authentication method.
 
-What we'll do next is create a login into sql and create a database using the commands below:
+What we'll do next is login into sql and create a database using the commands below:
 
 ```
 $ sudo mysql
