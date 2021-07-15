@@ -255,9 +255,9 @@ As i said before, vi also known as vim is a text editor in linux for writing cod
 
 ```
 <?php
-$user = "example_user";
-$password = "password";
-$database = "example_database";
+$user = "lemp-user";
+$password = "Lempuser@01";
+$database = "lemp-database";
 $table = "todo_list";
 
 try {
