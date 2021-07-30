@@ -1,3 +1,3 @@
 # LEMP-STACK WEB IMPLEMENTATION ON AWS
 
-WEB STACK IMPLEMENTATION (LEMP STACK). Check [lemp-stack-2.md](https://github.com/brpo01/lemp-stack-2/blob/master/lemp-stack-2.md) for the documentation
+>WEB STACK IMPLEMENTATION (LEMP STACK). Check [lemp-stack-2.md](https://github.com/brpo01/lemp-stack-2/blob/master/lemp-stack-2.md) for the documentation
